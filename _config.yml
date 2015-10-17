@@ -1,0 +1,30 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Peter's GitHub Page
+tagline:             My experiments with code
+url:                 http://damoc.ro
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Peter Damoc
+  url:               https://damoc.ro
+  email:             pdamoc@gmail.com
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https://github.com/pdamoc

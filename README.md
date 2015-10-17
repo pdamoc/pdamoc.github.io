@@ -1,6 +1,1 @@
----
-title: Hello README!
-layout: post
----
-
-# pdamoc.github.io
+# Peter's GitHub Page 
